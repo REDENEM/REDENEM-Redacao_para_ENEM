@@ -1,0 +1,39 @@
+.mac{
+   	background-color: white;
+	color: black;
+	padding:20 px;
+}
+#header{
+	background-color: green;
+	color: white;
+	text-align: center;
+	padding: 5px; 
+}
+#nav1{
+	line-height: 30px;
+	background-color: #eeeeee;
+	height: 900px;
+	width: 300px;
+	float: right;
+	padding: 5px;
+}
+#section{
+		width: 900px;
+		float: left;
+		padding: 50px;
+	}
+#footer{
+	background-color: green;
+	color: black;
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
+#footer1{
+	background-color: green;
+	color: white;
+	clear:both;
+	text-align:center;
+	padding:10px;
+}
+
