@@ -12,19 +12,19 @@
 #nav1{
 	line-height: 30px;
 	background-color: #eeeeee;
-	height: 900px;
+	height: 1200px;
 	width: 300px;
 	float: right;
 	padding: 5px;
 }
 #section{
-		width: 900px;
-		float: left;
-		padding: 50px;
+	width: 900px;
+	float: left;
+	padding: 50px;
 	}
 #footer{
 	background-color: green;
-	color: black;
+	color: white;
 	clear:both;
 	text-align:center;
 	padding:5px;
@@ -36,4 +36,6 @@
 	text-align:center;
 	padding:10px;
 }
-
+body{
+	background-image:url(abstraction_green_white_line_369_2560x1440.jpg);
+}
