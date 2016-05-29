@@ -31,12 +31,42 @@
       </div>
         <div id="section">
                <p>Redação 1<br>Autor: Luiz Antonio da Silva Oliveira <br>Tema: Classe social: a estrutura para a estabilidade 
-Econômica e política de um país.<br>Tema Proposto Pelo(a):Fismat <br>Profª:Gorete</p>
+                Econômica e política de um país.<br>Tema Proposto Pelo(a):Fismat <br>Profª:Gorete</p>
                 <h4 align="justify"><p>Nas sociedades gregas e romanas, existia a mão de obra escrava, além de trabalhadores livres, como os meeiros, os artesãos e os camponeses. No entanto, mesmo tendo sua liberdade eram explorados e oprimidos pelos seus senhores e proprietários. Assim, a hierarquia imposta pelas relações de trabalho determina a divisão das classes sociais, resultando na discriminação cultural, como também na desigualdade econômica.</p>
                <p>No Brasil, a divisão das classes sociais não depende apenas de um aspecto econômico, mas também, da falta de oportunidades e da discriminação de determinados grupo, bem como, negros, homossexuais, emigrantes e entre outros. Pois, desde a colonização do país houve a distinção de classes baseada num fator étnico, assim, o preconceito de hoje pode ser apreendido enquanto legado cultural europeu, combinado com as características da formação social do Brasil. Deste modo, o indivíduo pode ser rotulado ou marginalizado a partir de uma visão histórica, mas também, por diferenciar-se de um padrão pré-estabelecido, sendo subjugados a exploração e aos interesses econômicos da classe dominante. </p>
                <p>As desigualdades econômicas, ocorrem a favor do capitalismo e das relações em que o capital e o trabalho assalariado são dominantes. Pois, uma sociedade com mão de obra desqualificada tente a excluir indivíduos do mercado de trabalho, trazendo como consequência a miséria e pobreza. Isso, em virtude das condições precárias no meio de habitação das classes menos favorecidas, ou seja, a falta de infraestrutura e de acesso a informação, tornam esses indivíduos incapazes de crescer economicamente e adequassem ao mundo capitalista. Porém, segundo um proverbio africano “o último camelo da fila anda tão rápido quanto o primeiro”. Assim, cada indivíduo pode ser peça fundamental para um desenvolvimento e crescimento socioeconômico. </p>
                <p>Logo, percebe-se que a discriminação cultural e a desigualdade econômica, atuam na divisão das classes sociais e consequentemente influenciam na economia de um país. Faz-se necessário, portanto, estudos e pesquisas aprofundadas acerca dos problemas sociais, bem como, investimentos e criação de metas e leis, que priorizem o acesso à educação de qualidade, a saúde e o lazer. Deste modo, reformando nossas bases através da educação teremos uma sociedade mais justa e prospera. </p>
             <hr>
+            <div class="row">
+        <div class="col-md-6">
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Nota</th>
+                <th>Competencia 1</th>
+                <th>Competencia 2</th>
+                <th>Competencia 3</th>
+                <th>Competencia 4</th>
+                <th>Competencia 5</th>
+                <th>Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="2">1</td>
+                <td>160</td>
+                <td>200</td>
+                <td>200</td>
+                <td>160</td>
+                <td>160</td>
+                <td>880</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+</div>
+</justify></h4>
             </div>
         </div>
         <div id="nav1">
@@ -94,7 +124,6 @@ Econômica e política de um país.<br>Tema Proposto Pelo(a):Fismat <br>Profª:G
             <!-- END CBOX --> 
             </div>
           </div>
-           
         </div>
         <div id = "footer">
       REDNEM - Redação para ENEM<br>IFAL-CAMPUS ARAPIRACA
