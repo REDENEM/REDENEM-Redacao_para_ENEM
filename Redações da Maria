@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Eduardo, Luiz e Maria">
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet"href="style.css">
+    <title>REDNEM - Redação para ENEM</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="theme.css" rel="stylesheet">
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+  </head>
+  <body>
+  <div id = "footer1"><h3>INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE ALAGOAS - IFAL</h3></div>
+<div class="page-header">
+  <img data-holder-rendered="true" src="Capturar.png" style="float:right;width: 200px; height: 100px;" data-src="holder.js/200x200" class="img-thumbnail" alt="200x100">
+      </div>
+      <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active"><a href="pagina.html">Página Inicial</a></li>
+        <li role="presentation" class="active"><a href="sobre.html">Sobre</a></li>
+        <li role="presentation" class="active"><a href="dicas de redacao enem.html">Como Fazer Redação</a></li>
+        <li role="presentation" class="active"><a href="videos.html">Videos</a></li>
+        <li role="presentation" class="active"><a href="Redação_Eduardo A. S. Silva.html">Redação - Eduardo A. S. S.</a></li>
+        <li role="presentation" class="active"><a href="Redação_Maria G. C. Oliveira.html">Redação - Maria G. C. O.</a></li>
+        <li role="presentation" class="active"><a href="Redação_Luiz A. S. Oliveira. Oliveira.html">Redação - Luiz A. S. O.</a></li></li>
+      </ul>
+      </div>
+        <div id="section">
+               <p>Redação 1<br>Autor: Maria Das Graças Castro de Oliveira <br>Tema: Bandido bom é bandido morto? 
+                <br>Tema Proposto Pelo(a): isolada Solta Língua <br>Prof: Tainan</p>
+                <h4 align="justify"><p>“Bandido bom é bandido morto”. Esse é um termo bastante empregado pela população, como também pelos recursos midiáticos que fazem os indivíduos se questionarem acerca de uma solução para a problemática, lastimável, contínua na sociedade brasileira, o elevado índice de criminalidade. Tal fenômeno atinge os cidadãos que reagem assumindo o papel da polícia e da justiça, julgando e penalizando marginais; denominados assim “justiceiros”.</p>
+               <p>Na antiga civilização mesopotâmica, a punição era aplicada pela família da vítima tal qual a infração, baseada na lei de Talião: olho por olho e dente por dente. Possuindo verossimilhança com o cenário do Brasil, em que frequentemente a população, movida pela sensação de injustiça e amorosidade do estado, passa a aplicar penas aos transgressores da lei. Essas sensações são compreensíveis, visto que o poder judiciário brasileiro é ineficiente e, por isso, retarda o julgamento dos criminosos e até os deixa impunes. Dessa forma, é evidente o retrocesso do país ao estado de barbárie, pois segundo Thomas Hobbes, é necessário estabelecer um contrato social por meio do qual o governo garanta a segurança e iniba o convívio caótico. </p>
+               <p>Ademais, a tolerância da sociedade à utilização da força punitiva permite a própria polícia, cuja função é assegurar o bem-estar coletivo, abusar do seu poder, promovendo chacinas, como assiduamente vemos casos de genocídios de jovens. Esse, em suma maioria, são indivíduos marginalizados, negros e pobres que entram na criminalidade para sua sobrevivência, pois não possuem escolaridade. Portanto, os ditos criminosos também são vítimas, mas do estado opressor que favorece a classe dominante, deixando de lado as necessidades dos menos favorecidos, como boa educação. </p>
+               <p>Percebe-se que revidar o mal cometido não muda as situações de injustiça, apenas mantém o ciclo de violência, assim como dizia Gandhi: “Olho por olho e o mundo acabará cego”. Destarte, é imprescindível a criação de políticas públicas fundamentadas no respeito mútuo, na tolerância e no altruísmo. Para isso, a escola deve funcionar como geradora de comportamentos sociais. Além disso, convém ao poder judiciário garantir e agilizar os processos de penalidade. Por último, o poder deve garantir educação de qualidade para todos e zelar pela reintegração dos infratores na sociedade. Dessa maneira, com base no contrato proposto por Hobbes, a violência será gradativamente minimizada e a ordem restabelecida. </p>
+            <hr>
+            <div class="row">
+        <div class="col-md-6">
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Nota</th>
+                <th>Competencia 1</th>
+                <th>Competencia 2</th>
+                <th>Competencia 3</th>
+                <th>Competencia 4</th>
+                <th>Competencia 5</th>
+                <th>Total</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="2">1</td>
+                <td>160</td>
+                <td>200</td>
+                <td>200</td>
+                <td>160</td>
+                <td>160</td>
+                <td>880</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+</div>
+</justify></h4>
+            </div>
+        </div>
+        <div id="nav1">
+  <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Eduardo Artur Souza Silva</h3>
+            </div>
+            <div class="panel-body">
+              <img src="10557299_529942840514130_3542743638766493796_n.jpg"style="float:right;width:75px;height:80px;">
+              IFAL - Campus Arapiraca
+              Turma: 914-A
+            </div>
+          </div>
+           <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Luiz Antonio da Silva Oliveira</h3>
+            </div>
+            <div class="panel-body">
+              <img src="13124638_516117378566215_1503230000238780934_n.jpg"style="float:right;width:75px;height:80px;">
+              IFAL - Campus Arapiraca
+              Turma: 914-A
+            </div>
+          </div>
+           <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Maria das Graças Castro de Oliveira</h3>
+            </div>
+            <div class="panel-body">
+             <img src="QuickMemo+_2016-05-13-16-07-28.png"style="float:right;width:75px;height:80px;">
+              IFAL - Campus Arapiraca
+              Turma: 914-A
+            </div>
+          </div>
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Contato</h3>
+            </div>
+            <div class="panel-body">
+            E-mail: eduardo.artur.456@hotmail.com<br> 
+            E-mail: thomyluizsilva@outlook.com<br>
+            E-mail: maria_castro2010@outlook.com<br>
+            <center><a href="https://www.facebook.com/groups/1755417851360093/"><img src="facebook-square-social-logo.png"></a></center>
+            </div>
+          </div>
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Bate Papo Com os Visitantes</h3>
+            </div>
+            <div class="panel-body">
+             <!-- BEGIN CBOX - www.cbox.ws - v4.3 -->
+            <div id="cboxdiv" style="position: relative; margin: 0 auto; width: 200px; font-size: 0; line-height: 0;">
+            <div style="position: relative; height: 300px; overflow: auto; overflow-y: auto; -webkit-overflow-scrolling: touch; border: 0px solid;"><iframe src="http://www2.cbox.ws/box/?boxid=2375716&boxtag=y8b2kq&sec=main" marginheight="0" marginwidth="0" frameborder="0" width="100%" height="100%" scrolling="auto" allowtransparency="yes" name="cboxmain2-2375716" id="cboxmain2-2375716"></iframe></div>
+            <div style="position: relative; height: 80px; overflow: hidden; border: 0px solid; border-top: 0px;"><iframe src="http://www2.cbox.ws/box/?boxid=2375716&boxtag=y8b2kq&sec=form" marginheight="0" marginwidth="0" frameborder="0" width="100%" height="100%" scrolling="no" allowtransparency="yes" name="cboxform2-2375716" id="cboxform2-2375716"></iframe></div>
+            </div>
+            <!-- END CBOX --> 
+            </div>
+          </div>
+        </div>
+        <div id = "footer">
+      REDNEM - Redação para ENEM<br>IFAL-CAMPUS ARAPIRACA
+    </div>
+    </body>
+</html>
